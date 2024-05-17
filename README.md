@@ -4,7 +4,7 @@ This is a college project from 2013 (1st semester) that I uploaded to share. The
 
 The main part is an Arduino project. It's a game of Tic Tac Toe that can be played between human players or between a human player and the computer. The inputs are buttons and a potentiometer and the output is a 14 character LCD display. The computer player is a perfect player: it can win and draw, but it will never lose.
 
-[Perfect player strategy](http://www.chessandpoker.com/tic_tac_toe_strategy.html)
+[Perfect player strategy](http://www.chessandpoker.com/tic_tac_toe_strategy.html) (left side: playing with O; right side: playing with X)
 
 The `*.dsn` file describes the hardware. It requires Labcenter Proteus to be opened.
 
